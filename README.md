@@ -1,3 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Make 100 - Privacy Policy</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px 64px; line-height: 1.6; color: #1b1f24; background: #ffffff; }
+  @media (prefers-color-scheme: dark) { body { background: #0f141a; color: #e6edf3; } a { color: #7cb8ff; } }
+  h1 { font-size: 1.8rem; margin-bottom: 0.2rem; }
+  h2 { font-size: 1.2rem; margin-top: 2rem; }
+  .meta { opacity: 0.7; margin-top: 0; }
+</style>
+</head>
+<body>
+
 <h1>Make 100 - Privacy Policy</h1>
 <p class="meta">Last updated: October 13, 2026</p>
 
